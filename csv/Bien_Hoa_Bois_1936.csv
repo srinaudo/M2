@@ -1,0 +1,39 @@
+"Annee","Ligne","Km","Gare","ID","ligne_clean","Mouvement","Type","Type2","Quantite","KM","NOM","LAT","LONG"
+1936,"Na Cham My Tho","1332","Suoi Dau",249,"nha_trang_saigon","Depart","Combustibles","Bois et produits forestiers",28.5,"na","Suoi Dau",109.07182,12.18817
+1936,"Na Cham My Tho","1613","Gia Huynh",289,"nha_trang_saigon","Depart","Combustibles","Bois et produits forestiers",27.73,"na","Gia Huynh",107.541389,10.985278
+1936,"Na Cham My Tho","1649","Xuan Loc",293,"nha_trang_saigon","Depart","Combustibles","Bois et produits forestiers",632.17,"na","Xuan Loc",107.245833,10.933333
+1936,"Na Cham My Tho","1677","Trang Bom",297,"nha_trang_saigon","Depart","Combustibles","Bois et produits forestiers",4308.74,"na","Trang Bom",106.993889,10.944722
+1936,"Na Cham My Tho","1697","Bien Hoa",300,"nha_trang_saigon","Depart","Combustibles","Bois et produits forestiers",561.18,"na","Bien Hoa",106.826389,10.950556
+1936,"Na Cham My Tho","1721","Go Vap",305,"nha_trang_saigon","Depart","Combustibles","Bois et produits forestiers",2519.12,"na","Go Vap",106.67941,10.84058
+1936,"Na Cham My Tho","1728","Sai Gon",306,"nha_trang_saigon","Depart","Combustibles","Bois et produits forestiers",139.4,"0","Saïgon",106.667408,10.785243
+1936,"Na Cham My Tho","1315","Nha Trang",246,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",11.3,"na","Nha Trang",109.184444,12.247778
+1936,"Na Cham My Tho","1332","Suoi Dau",249,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",32.65,"na","Suoi Dau",109.07182,12.18817
+1936,"Na Cham My Tho","1407","Tourcham",264,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",12.33,"na","Tourcham",108.95,11.597222
+1936,"Na Cham My Tho","1463","Dran",267,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",32.23,"na","Dran",108.58959,11.84027
+1936,"Na Cham My Tho","1469","Arbre Broye",268,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",14.88,"na","Arbre Broye",108.56225,11.86202
+1936,"Na Cham My Tho","1480","Le Bosquet",270,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",54.18,"na","Le Bosquet",108.53095,11.94174
+1936,"Na Cham My Tho","1491","Da Lat",271,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",293.55,"na","Da Lat",108.455556,11.942222
+1936,"Na Cham My Tho","1550","Muong Man",282,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",60.15,"na","Muong Man",108.003056,10.968611
+1936,"Na Cham My Tho","1562","Phan Thiet",284,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",15.91,"na","Phan Thiet",108.1062684,10.9235598
+1936,"Na Cham My Tho","1567","Suoi Van",285,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",35.17,"na","Suoi Van",107.867222,10.920556
+1936,"Na Cham My Tho","1602","Suoi Kiet",288,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",2501.38,"na","Suoi Kiet",107.630278,10.968333
+1936,"Na Cham My Tho","1613","Gia Huynh",289,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",4742.38,"na","Gia Huynh",107.541389,10.985278
+1936,"Na Cham My Tho","1630","Gia Ray",291,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",2195.28,"na","Gia Ray",107.403056,10.964167
+1936,"Na Cham My Tho","1639","Bao Chanh",292,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",1355.85,"na","Bao Chanh",107.325833,10.9525
+1936,"Na Cham My Tho","1649","Xuan Loc",293,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",1214.5,"na","Xuan Loc",107.245833,10.933333
+1936,"Na Cham My Tho","1655","An Loc",294,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",192.46,"na","An Loc",107.18219,10.92655
+1936,"Na Cham My Tho","1661","Dau Giay",295,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",1794.74,"na","Dau Giay",107.137778,10.930833
+1936,"Na Cham My Tho","1677","Trang Bom",297,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",18960.11,"na","Trang Bom",106.993889,10.944722
+1936,"Na Cham My Tho","1697","Bien Hoa",300,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",9267.93,"na","Bien Hoa",106.826389,10.950556
+1936,"Na Cham My Tho","1706","Dian",302,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",16.95,"na","Dian",106.769167,10.907778
+1936,"Na Cham My Tho","1728","Sai Gon",306,"nha_trang_saigon","Depart","Produits forestiers","Bois et produits forestiers",321.78,"0","Saïgon",106.667408,10.785243
+1936,"Na Cham My Tho","1319","Phu Vinh",247,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",52.88,"na","Phu Vinh",109.154598,12.256366
+1936,"Na Cham My Tho","1328","Cay Cay",248,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",29.5,"na","Cay Cay",109.080278,12.216944
+1936,"Na Cham My Tho","1367","Ba Ngoi",252,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",41.95,"na","Ba Ngoi",109.148668,11.917281
+1936,"Na Cham My Tho","1463","Dran",267,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",29.52,"na","Dran",108.58959,11.84027
+1936,"Na Cham My Tho","1562","Phan Thiet",284,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",13.77,"na","Phan Thiet",108.1062684,10.9235598
+1936,"Na Cham My Tho","1567","Suoi Van",285,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",170,"na","Suoi Van",107.867222,10.920556
+1936,"Na Cham My Tho","1582","Song Phan",286,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",250,"na","Song Phan",107.751667,10.874444
+1936,"Na Cham My Tho","1595","Song Dinh",287,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",522.75,"na","Song Dinh",107.672778,10.921389
+1936,"Na Cham My Tho","1602","Suoi Kiet",288,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",240.45,"na","Suoi Kiet",107.630278,10.968333
+1936,"Na Cham My Tho","1718","Binh Trieu",304,"nha_trang_saigon","Depart","Produits forestiers secondaires","Bois et produits forestiers",159.87,"na","Binh Trieu",106.7117,10.8531

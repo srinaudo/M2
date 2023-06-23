@@ -1,0 +1,56 @@
+"Annee","Ligne","Km","Gare","ID","ligne_clean","Mouvement","Type","Type2","Quantite","KM","NOM","LAT","LONG"
+1923,"Saigon My Tho","0","Sai Gon",306,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",4925,"0","Saïgon",106.667408,10.785243
+1923,"Saigon Nha Trang","0","Sai Gon",306,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",207.99,"0","Saïgon",106.667408,10.785243
+1923,"Saigon Nha Trang","8","Go Vap",305,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",12.58,"na","Go Vap",106.67941,10.84058
+1923,"Saigon Nha Trang","11","Binh Trieu",304,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",92.51,"na","Binh Trieu",106.7117,10.8531
+1923,"Saigon Nha Trang","23","Dian",302,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",20,"na","Dian",106.769167,10.907778
+1923,"Saigon Nha Trang","32","Bien Hoa",300,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",5417.24,"na","Bien Hoa",106.826389,10.950556
+1923,"Saigon Nha Trang","52","Trang Bom",297,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",17005.1,"na","Trang Bom",106.993889,10.944722
+1923,"Saigon Nha Trang","61","Bau Ca",296,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",393.99,"na","Bau Ca",107.07561,10.93561
+1923,"Saigon Nha Trang","68","Dau Giay",295,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",1150.25,"na","Dau Giay",107.137778,10.930833
+1923,"Saigon Nha Trang","73","An Loc",294,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",231.26,"na","An Loc",107.18219,10.92655
+1923,"Saigon Nha Trang","80","Xuan Loc",293,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",2058.82,"na","Xuan Loc",107.245833,10.933333
+1923,"Saigon Nha Trang","90","Bao Chanh",292,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",1367.75,"na","Bao Chanh",107.325833,10.9525
+1923,"Saigon Nha Trang","99","Gia Ray",291,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",1013.86,"na","Gia Ray",107.403056,10.964167
+1923,"Saigon Nha Trang","110","Tran Tao",290,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",2702.4,"na","Tran Tao",107.488056,10.9675
+1923,"Saigon Nha Trang","116","Gia Huynh",289,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",2850.42,"na","Gia Huynh",107.541389,10.985278
+1923,"Saigon Nha Trang","134","Song Dinh",287,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",529.39,"na","Song Dinh",107.672778,10.921389
+1923,"Saigon Nha Trang","147","Song Phan",286,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",552.76,"na","Song Phan",107.751667,10.874444
+1923,"Saigon Nha Trang","190","Phan Thiet",284,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",39.54,"na","Phan Thiet",108.1062684,10.9235598
+1923,"Saigon Nha Trang","329","Luong Phan",263,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",18,"na","Luong Phan",108.91665,11.6454
+1923,"Saigon Nha Trang","336","Dong Me",261,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",15.4,"na","Dong Me",108.88634,11.69548
+1923,"Saigon Nha Trang","344","Tan My",259,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",99.49,"na","Tan My",108.79476,11.72974
+1923,"Saigon Nha Trang","363","Krong Pha",255,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",314.29,"na","Krong Pha",108.71347,11.81696
+1923,"Saigon Nha Trang","329","Balap",262,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",126,"na","Balap",108.99638,11.66748
+1923,"Saigon Nha Trang","348","Ka Rom",258,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",18,"na","Ka Rom",109.08336,11.77949
+1923,"Saigon Nha Trang","370","Ba Ngoi",252,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",25.36,"na","Ba Ngoi",109.148668,11.917281
+1923,"Saigon Nha Trang","389","Hoa Tan",250,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",309.95,"na","Hoa Tan",109.098611,12.121389
+1923,"Saigon Nha Trang","401","Cay Cay",248,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",200.38,"na","Cay Cay",109.080278,12.216944
+1923,"Saigon Nha Trang","409","Nha Trang",246,"nha_trang_saigon","Depart","Bois de construction","Bois et produits forestiers",125.98,"na","Nha Trang",109.184444,12.247778
+1923,"Saigon Nha Trang","0","Sai Gon",306,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",145.96,"0","Saïgon",106.667408,10.785243
+1923,"Saigon Nha Trang","8","Go Vap",305,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",901,"na","Go Vap",106.67941,10.84058
+1923,"Saigon Nha Trang","23","Dian",302,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",12.22,"na","Dian",106.769167,10.907778
+1923,"Saigon Nha Trang","32","Bien Hoa",300,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",2113.47,"na","Bien Hoa",106.826389,10.950556
+1923,"Saigon Nha Trang","41","Ho Nai",299,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",4777.52,"na","Ho Nai",106.906111,10.959389
+1923,"Saigon Nha Trang","45","Long Lac",298,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",3574.8,"na","Long Lac",106.94153,10.95686
+1923,"Saigon Nha Trang","52","Trang Bom",297,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",41341.18,"na","Trang Bom",106.993889,10.944722
+1923,"Saigon Nha Trang","68","Dau Giay",295,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",616.14,"na","Dau Giay",107.137778,10.930833
+1923,"Saigon Nha Trang","73","An Loc",294,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",792.52,"na","An Loc",107.18219,10.92655
+1923,"Saigon Nha Trang","80","Xuan Loc",293,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",117,"na","Xuan Loc",107.245833,10.933333
+1923,"Saigon Nha Trang","90","Bao Chanh",292,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",4298.8,"na","Bao Chanh",107.325833,10.9525
+1923,"Saigon Nha Trang","99","Gia Ray",291,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",189.24,"na","Gia Ray",107.403056,10.964167
+1923,"Saigon Nha Trang","110","Tran Tao",290,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",282.27,"na","Tran Tao",107.488056,10.9675
+1923,"Saigon Nha Trang","116","Gia Huynh",289,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",151.5,"na","Gia Huynh",107.541389,10.985278
+1923,"Saigon Nha Trang","147","Song Phan",286,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",271.71,"na","Song Phan",107.751667,10.874444
+1923,"Saigon Nha Trang","178","Muong Man",282,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",498.14,"na","Muong Man",108.003056,10.968611
+1923,"Saigon Nha Trang","186","Phu Hoi",283,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",72,"na","Phu Hoi",108.07121,10.95126
+1923,"Saigon Nha Trang","207","Long Thanh",280,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",234,"na","Long Thanh",108.204722,11.128889
+1923,"Saigon Nha Trang","223","Song Luy",279,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",162,"na","Song Luy",108.3225,11.214722
+1923,"Saigon Nha Trang","236","Chau Hanh",278,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",962.75,"na","Chau Hanh",108.425,11.227778
+1923,"Saigon Nha Trang","276","Vinh Hao",274,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",315,"na","Vinh Hao",108.741944,11.309444
+1923,"Saigon Nha Trang","363","Krong Pha",255,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",864.78,"na","Krong Pha",108.71347,11.81696
+1923,"Saigon Nha Trang","329","Balap",262,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",405,"na","Balap",108.99638,11.66748
+1923,"Saigon Nha Trang","360","Trai Ca",256,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",275,"na","Trai Ca",109.0976,11.88434
+1923,"Saigon Nha Trang","378","Suoi Cat",251,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",18,"na","Suoi Cat",109.12585,12.04074
+1923,"Saigon Nha Trang","389","Hoa Tan",250,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",903.6,"na","Hoa Tan",109.098611,12.121389
+1923,"Saigon Nha Trang","397","Suoi Dau",249,"nha_trang_saigon","Depart","Combustibles Vegetaux","Bois et produits forestiers",726.3,"na","Suoi Dau",109.07182,12.18817
